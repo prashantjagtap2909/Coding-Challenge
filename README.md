@@ -4,5 +4,5 @@
   
   
  ###  [Content]()
-    - [1 - Reverse an array]()
-    - [2 - Linear Search]()
+  - [1 - Reverse an array]()
+  - [2 - Linear Search]()
