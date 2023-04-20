@@ -5,4 +5,4 @@
   
  ###  [Content]()
   - [1 - Reverse an array](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/01%20Reverse%20an%20array.md)
-  - [2 - Linear Search]()
+  - [2 - Linear Search](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/02%20Linear%20Search.md)
