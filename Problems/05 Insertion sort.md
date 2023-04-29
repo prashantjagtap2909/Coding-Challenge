@@ -3,7 +3,8 @@
 
 
  - The Insertion Sort algorithm works by iteratively comparing each element of the array with the elements before it and inserting the element at the correct position in the sorted part of the array.
-  
+  ![image](https://user-images.githubusercontent.com/93985255/235308144-59563289-ef3b-45e0-9574-56426ac7235e.png)
+
  - The function takes an array arr and its size n as input arguments.
 
   - The outer loop of the function iterates over each element of the array arr except the last element (i.e., n-1) starting from index 0. The inner loop iterates from the next element (i.e., i+1) to the first element
