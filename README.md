@@ -11,6 +11,6 @@
   - [5 - Insertion sort](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/05%20Insertion%20sort.md)
   - [6 - Merge two sorted LL](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/06%20Merge%20two%20sorted%20LL.md)
   - [7 - Check element in BST]( https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/07%20Check%20element%20in%20BST.md)
-  - [8 - Check element in BST]( https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/07%20Check%20element%20in%20BST.md)
+  - [8 - Inorder Traversal](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/08%20Inorder%20traversal.md)
  -  [9 - Check element in BST]( https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/07%20Check%20element%20in%20BST.md)
 
