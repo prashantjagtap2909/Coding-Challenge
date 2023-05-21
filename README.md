@@ -13,4 +13,5 @@
   - [7 - Check element in BST]( https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/07%20Check%20element%20in%20BST.md)
   - [8 - Inorder Traversal](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/08%20Inorder%20traversal.md)
  -  [9 - Insert a node in Binary tree](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/09%20Insert%20a%20node%20in%20Binary%20Tree.md)
+ -  [10 - Print n fibanacci number](https://github.com/prashantjagtap2909/Coding-Challenge/blob/main/Problems/10%20%20Print%20first%20n%20fibanacci%20number.md)
 
