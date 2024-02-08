@@ -1,4 +1,4 @@
-# Coding-Challenge.....
+# Coding-Challenge.....  [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FCoding-Challenge&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
   - It is a coding challenge to stay consistent for 100 days.
   - Will post a DSA question everyday with approach to solve as I does on twitter.
   - Follow journey
